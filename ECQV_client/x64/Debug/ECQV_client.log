@@ -1,0 +1,7 @@
+﻿  cert.cpp
+C:\SCMSProject\ecqv_3.0\ECQV_client\cert.cpp : fatal error C1107: 未能找到程序集“Windows.winmd”: 请使用 /AI 或通过设置 LIBPATH 环境变量指定程序集搜索路径
+  main_client.cpp
+C:\SCMSProject\ecqv_3.0\ECQV_client\main_client.cpp : fatal error C1107: 未能找到程序集“Windows.winmd”: 请使用 /AI 或通过设置 LIBPATH 环境变量指定程序集搜索路径
+  ecqv_client.cpp
+C:\SCMSProject\ecqv_3.0\ECQV_client\ecqv_client.cpp : fatal error C1107: 未能找到程序集“Windows.winmd”: 请使用 /AI 或通过设置 LIBPATH 环境变量指定程序集搜索路径
+  正在生成代码...

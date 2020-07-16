@@ -1,0 +1,10 @@
+﻿  cert.cpp
+c1xx : error C2338: C++/CLI 或 C++/CX 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+c1xx : fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+  ecqv_server.cpp
+c1xx : error C2338: C++/CLI 或 C++/CX 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+c1xx : fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+  main_server.cpp
+c1xx : error C2338: C++/CLI 或 C++/CX 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+c1xx : fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+  正在生成代码...
