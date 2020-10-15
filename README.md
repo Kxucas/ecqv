@@ -7,4 +7,4 @@ ecqv project
 ##Illistrate:
   Please install VS environment to run the project.
   Please install OPENSSL Version 1.1.1 to build the project.
-  Please use the command parameter Project1 -o user.crt -l ecqv.log ca_cert.crt in the project configuration properties.
+  Please use the command parameter **Project1 -o user.crt -l ecqv.log ca_cert.crt** in the project configuration properties.
